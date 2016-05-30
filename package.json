@@ -1,0 +1,18 @@
+{
+  "name": "mongo-with-node",
+  "version": "1.0.0",
+  "description": "A simple application built using node.js and mongodb",
+  "main": "app.js",
+  "dependencies": {
+    "consolidate": "^0.14.1",
+    "express": "^4.13.4",
+    "mongodb": "^2.1.20",
+    "nunjucks": "^2.4.2"
+  },
+  "author": "Prateek Lal",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/prateeklal/mongo-with-node.git"
+  }
+}
