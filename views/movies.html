@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Favourite movies from all times</title>
+    <style>
+      body {
+        font-family: "Calibri", sans-serif;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Movies</h1>
+    <ul>
+      {% for movie in movies %}
+      <li>
+        <a href="http://www.imdb.com/title/{{ movie.imdb }}">{{ movie.title }}, [{{ movie.year }}]</a>
+      </li>
+      {% else %}
+      <li>No Movies Found</li>
+      {% endfor %}
+    </ul>
+  </body>
+</html>

@@ -4,7 +4,7 @@ A simple application built using node.js and mongodb
 
 ## Introduction
 
-Hello everyone, this application basically is built using minimal tools to give you a boilerplate of a server and a front-end. Please follow the instructions to run it locally.
+Hello everyone, this application is built using minimal tools to give you a boilerplate of a server and a front-end. Please follow the instructions to run it locally.
 
 ## Installation
 
