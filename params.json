@@ -1,0 +1,6 @@
+{
+  "name": "Using MongoDB with Node.js",
+  "tagline": "A simple application built using node.js and mongodb",
+  "body": "# Mongo with Node.js\r\n\r\nA simple application built using node.js and mongodb\r\n\r\n## Introduction\r\n\r\nHello everyone, this application is built using minimal tools to give you a boilerplate of a server and a front-end. Please follow the instructions to run it locally.\r\n\r\n## Installation\r\n\r\nPlease clone the repository to your machine\r\n```bash\r\ngit clone https://github.com/prateeklal/mongo-with-node.git\r\n```\r\nand then run\r\n```bash\r\nnpm install\r\n```\r\nthis will install all the dependencies required for running this application.\r\n**Note:** This application assumes that you have MongoDB installed on your machine. For further information on how to install mongodb please follow - [Install MongoDB](https://docs.mongodb.com/manual/installation/)\r\n\r\n## License\r\n\r\nThis project has a license of MIT which means you are free to download and distribute the code.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
